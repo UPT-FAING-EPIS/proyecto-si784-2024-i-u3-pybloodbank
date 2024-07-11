@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"[]>
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>RegistrarUsuario</title>
+    <link rel="stylesheet" href="css/master.css" type="text/css" />
+    <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/scripts.js" type="text/javascript"></script>
+    <script type="text/javascript">
+$(document).ready(function() {
+  initializeToc();
+});
+</script>
+    <!-- We are using Font Awesome - http://fortawesome.github.com/Font-Awesome - licensed under CC BY 3.0 -->
+  </head>
+  <body>
+    <div id="container">
+      <div id="top" />
+      <div id="toc">
+        <p class="tocCollapser" title="Collapse Table of Content">«</p>
+        <ul class="features">
+          <li class="file" id="root">
+            <a href="index.html">Home</a>
+          </li>
+          <li class="file">
+            <a href="Acomodar.html">Acomodar</a>
+          </li>
+          <li class="file">
+            <a href="GestionarNotificaciones.html">GestionarNotificaciones</a>
+          </li>
+          <li class="file">
+            <a href="GestionarUS.html">GestionarUS</a>
+          </li>
+          <li class="file">
+            <a href="GestionarUsuario.html">GestionarUsuario</a>
+          </li>
+          <li class="file">
+            <a href="Login.html">Login</a>
+          </li>
+          <li class="file">
+            <a href="RegistroPaciente.html">Modificar datos del paciente</a>
+          </li>
+          <li class="file">
+            <a href="ProgramarCampana.html">ProgramarCampana</a>
+          </li>
+          <li class="file">
+            <span class="current">RegistrarUsuario</span>
+          </li>
+        </ul>
+      </div>
+      <div id="feature">
+        <h1>RegistrarUsuario</h1>
+        <div class="description">
+          <p>As a new user, I want to be able to register so that I can access the application.</p>
+        </div>
+        <ul id="scenarios">
+          <li class="scenario">
+            <div class="scenario-heading" id="successful-user-registration">
+              <p class="tags">Tags: <span>@tag3</span></p>
+              <h2>Successful user registration</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>I enter a new username "newuser"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I enter a password "password"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I confirm the password "password"</li>
+                <li class="step">
+                  <span class="keyword">When </span>I click the register button</li>
+                <li class="step">
+                  <span class="keyword">Then </span>I should see a success message</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('successful-user-registration')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+          </li>
+          <li class="scenario">
+            <div class="scenario-heading" id="passwords-do-not-match">
+              <p class="tags">Tags: <span>@tag3</span></p>
+              <h2>Passwords do not match</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>I enter a new username "newuser"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I enter a password "password"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I confirm the password "differentpassword"</li>
+                <li class="step">
+                  <span class="keyword">When </span>I click the register button</li>
+                <li class="step">
+                  <span class="keyword">Then </span>I should see an error message about password mismatch</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('passwords-do-not-match')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+          </li>
+          <li class="scenario">
+            <div class="scenario-heading" id="user-already-exists">
+              <p class="tags">Tags: <span>@tag3</span></p>
+              <h2>User already exists</h2>
+            </div>
+            <div class="steps">
+              <ul>
+                <li class="step">
+                  <span class="keyword">Given </span>I enter an existing username "existinguser"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I enter a password "password"</li>
+                <li class="step">
+                  <span class="keyword">And </span>I confirm the password "password"</li>
+                <li class="step">
+                  <span class="keyword">When </span>I click the register button</li>
+                <li class="step">
+                  <span class="keyword">Then </span>I should see an error message about user already existing</li>
+              </ul>
+            </div>
+            <a class="scenario-link" href="javascript:showImageLink('user-already-exists')" title="Copy scenario link to clipboard.">
+              <i class="icon-link"> </i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div id="footer">
+        <p>Generated on: 10 July 2024 10:17:14</p>
+        <p>Produced by Pickles, version 0.0.0.0</p>
+      </div>
+    </div>
+  </body>
+</html>

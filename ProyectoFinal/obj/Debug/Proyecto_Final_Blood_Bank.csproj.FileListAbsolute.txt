@@ -1,0 +1,813 @@
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Form1.resources
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\renat\Desktop\Programacion II\TRABAJOS DE UNIDAD\PROYECTO UNIDAD 2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Banco_de_Sangre.resources
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Banco_de_Sangre.resources
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Form1.resources
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Downloads\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A-Chambilla\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Banco_de_Sangre.resources
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Form1.resources
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Desktop\Github\TrabajoGrupal_Unidad2\TrabajoGrupalU2_Chambilla_Zeballos_Valle_A\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Banco_de_Sangre.resources
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Form1.resources
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Desktop\Github\PG_UII_Banco-de-Sangre\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Banco_de_Sangre.resources
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Form1.resources
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES.resources
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.PERSONAL.resources
+C:\Users\renat\Downloads\Banco_de_sangre_bdd\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRO_PACIENTE.resources
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.BANCO_DE_SANGRE.resources
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.PERSONAL.resources
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRO_PACIENTE.resources
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Form1.resources
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES.resources
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Desktop\Proyecto Banco de Sangre - Version final\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.BANCO_DE_SANGRE.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.LOGIN.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_1.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.PERSONAL.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRARSE.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRO_PACIENTE.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_2.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\Usuario\Desktop\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.BANCO_DE_SANGRE.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.LOGIN.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_1.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.PERSONAL.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRARSE.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRO_PACIENTE.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_2.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Downloads\Prueba y error\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\Usuario\Desktop\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\Usuario\Desktop\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\Usuario\Desktop\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.BANCO_DE_SANGRE.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.LOGIN.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_1.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.PERSONAL.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRARSE.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRO_PACIENTE.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_2.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.INFORME.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.RegistroDonantes.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.BANCO_DE_SANGRE.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.INFORME.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.LOGIN.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_1.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.PERSONAL.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRARSE.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.RegistroDonantes.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRO_PACIENTE.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_2.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\LEGION\Downloads\Prueba y error\proyecto final final\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe.config
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\bin\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.BANCO_DE_SANGRE.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.INFORME.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.LOGIN.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_1.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.PERSONAL.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRARSE.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.RegistroDonantes.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.REGISTRO_PACIENTE.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES_2.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.OPCIONES.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.exe
+C:\Users\Usuario\Desktop\ProyectoFinal_260622\ProyectoFinal\obj\Debug\TrabajoGrupal_U2_Chambilla_Zevallos_Valle_A.pdb
+C:\Users\PC\Desktop\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\PC\Desktop\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\PC\Desktop\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\PC\Desktop\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\LEGION\Downloads\Prueba y error\Proyecto final definitivo\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 5°\Programacion II\PROYECTO\Proyecto Grupal III Unidad - The Blood Bank - Grupo A\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\nunit.engine.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Castle.Core.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Moq.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Castle.Core.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\Moq.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v2\P2\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\sadsad\Downloads\mio\ProyectoU2 (1)\ProyectoU2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 2\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\Downloads\ProyectoU2 Version 3\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\Downloads\ProyectoU2 Version 4\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Castle.Core.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Moq.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Castle.Core.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Moq.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 7°\calidad y pruebas software\Proyecto testeo v4\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto.7E5F0E22.Up2Date
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 5\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\specflow.json
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\BoDi.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Gherkin.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\SpecFlow.Internal.Json.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\BoDi.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Gherkin.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.xml
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\OneDrive\Imágenes\ProyectoU2 Version 7\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\specflow.json
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\SpecFlow.Internal.Json.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.xml
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto.7E5F0E22.Up2Date
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\Usuario\Documents\CALIDADYPRUEBADESOFTWARE\PROYECTOCPS\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\specflow.json
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\SpecFlow.Internal.Json.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.pdb
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.xml
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\sadsad\Downloads\ProyectoU2 Version10\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\specflow.json
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\SpecFlow.Internal.Json.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.dll
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.xml
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe.config
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.api.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.engine.core.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\specflow.json
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Proyecto_Final_Blood_Bank.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\SpecFlow.Internal.Json.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\BoDi.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Castle.Core.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Gherkin.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\Moq.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\nunit.framework.legacy.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\System.ValueTuple.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.xml
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.pdb
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.AssemblyReference.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe.config
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.BANCO_DE_SANGRE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.INFORME.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.LOGIN.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_1.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.PERSONAL.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRARSE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.RegistroDonantes.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.REGISTRO_PACIENTE.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES_2.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.OPCIONES.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.Properties.Resources.resources
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.GenerateResource.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.csproj.CopyComplete
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.exe
+C:\Users\gabri\Downloads\ProyectoU2 Version 8\ProyectoFinal\obj\Debug\Proyecto_Final_Blood_Bank.pdb
