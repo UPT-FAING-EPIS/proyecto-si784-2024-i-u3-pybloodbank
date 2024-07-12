@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\FINAL\ProyectoU2 Version 9\ProyectoFinal\RegistroDonantes.cs</title>
+    <script type="text/javascript" src="../js/dotcover.sourceview.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/dotcover.report.css" />
+  </head>
+  <body>
+    <pre id="content" class="source-code">
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data.SqlClient;
+using System.Windows.Forms;
+using System.Data.Common;
+
+namespace Proyecto_Final_Blood_Bank
+{
+    public partial class RegistroDonantes : Form
+
+    {
+        private IDbConnection _connection;
+
+
+        public RegistroDonantes(IDbConnection connection = null)
+        {
+            InitializeComponent();
+            _connection = connection ?? new SqlConnection(&quot;Data Source=localhost;Initial Catalog=Hospital;Integrated Security=True&quot;);
+        }
+
+        public RegistroDonantes()
+        {
+
+
+            InitializeComponent();
+            //COMBO BOX NO EDITABLE
+            cmbRH.DropDownStyle = ComboBoxStyle.DropDownList;
+            cmbTipoDeSangre.DropDownStyle = ComboBoxStyle.DropDownList;
+            lblVolver.MouseEnter += OnMouseEnter;
+            lblVolver.MouseLeave += OnMouseLeave;
+
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form_FormClosed);
+        }
+        private void Form_FormClosed(object sender, FormClosedEventArgs e)
+        {
+
+            Application.Exit();
+        }
+
+        private void RegistroDonantes_Load(object sender, EventArgs e)
+        {
+            lblUsuario.Text = LOGIN.NombreUsuario;
+            CargarGrilla();
+
+
+
+            formOriginalSize = this.Size;
+            ReclblVolver = new Rectangle(lblVolver.Location.X, lblVolver.Location.Y, lblVolver.Width, lblVolver.Height);
+            ReclblTitulo = new Rectangle(lblTitulo.Location.X, lblTitulo.Location.Y, lblTitulo.Width, lblTitulo.Height);
+            ReclblUsuario = new Rectangle(lblUsuario.Location.X, lblUsuario.Location.Y, lblUsuario.Width, lblUsuario.Height);
+            ReclblDni = new Rectangle(lblDni.Location.X, lblDni.Location.Y, lblDni.Width, lblDni.Height);
+            RectxtDni = new Rectangle(txtDni.Location.X, txtDni.Location.Y, txtDni.Width, txtDni.Height);
+            RecFactorRh = new Rectangle(lblFactorRH.Location.X, lblFactorRH.Location.Y, lblFactorRH.Width, lblFactorRH.Height);
+            RectxtFactorRh = new Rectangle(cmbRH.Location.X, cmbRH.Location.Y, cmbRH.Width, cmbRH.Height);
+            ReclblNombre = new Rectangle(lblNombre.Location.X, lblNombre.Location.Y, lblNombre.Width, lblNombre.Height);
+            RectxtNombre = new Rectangle(txtNombre.Location.X, txtNombre.Location.Y, txtNombre.Width, txtNombre.Height);
+            ReclblFecha = new Rectangle(lblFechaHora.Location.X, lblFechaHora.Location.Y, lblFechaHora.Width, lblFechaHora.Height);
+            RectxtFecha = new Rectangle(txtFechayHora.Location.X, txtFechayHora.Location.Y, txtFechayHora.Width, txtFechayHora.Height);
+            ReclblApellido = new Rectangle(lblApellido.Location.X, lblApellido.Location.Y, lblApellido.Width, lblApellido.Height);
+            RectxtApellido = new Rectangle(txtApellido.Location.X, txtApellido.Location.Y, txtApellido.Width, txtApellido.Height);
+            ReclblCondicion = new Rectangle(lblCondicion.Location.X, lblCondicion.Location.Y, lblCondicion.Width, lblCondicion.Height);
+            RecrbSi = new Rectangle(rbSi.Location.X, rbSi.Location.Y, rbSi.Width, rbSi.Height);
+            ReclblTipodeSangre = new Rectangle(lblTipoSangre.Location.X, lblTipoSangre.Location.Y, lblTipoSangre.Width, lblTipoSangre.Height);
+            ReccmbTipodeSangre = new Rectangle(cmbTipoDeSangre.Location.X, cmbTipoDeSangre.Location.Y, cmbTipoDeSangre.Width, cmbTipoDeSangre.Height);
+            RecrbNo = new Rectangle(rbNo.Location.X, rbNo.Location.Y, rbNo.Width, rbNo.Height);
+            ReclblLitros = new Rectangle(lblLitros.Location.X, lblLitros.Location.Y, lblLitros.Width, lblLitros.Height);
+            RectxtLitros = new Rectangle(txtLitros.Location.X, txtLitros.Location.Y, txtLitros.Width, txtLitros.Height);
+            RecbtnRegistrar = new Rectangle(btnRegistrar.Location.X, btnRegistrar.Location.Y, btnRegistrar.Width, btnRegistrar.Height);
+            RecbtnLimpiar = new Rectangle(btnLimpiar.Location.X, btnLimpiar.Location.Y, btnLimpiar.Width, btnLimpiar.Height);
+            RecbtnModificar = new Rectangle(btnModificar.Location.X, btnModificar.Location.Y, btnModificar.Width, btnModificar.Height);
+            RecdgvDonantes = new Rectangle(dgvDonantes.Location.X, dgvDonantes.Location.Y, dgvDonantes.Width, dgvDonantes.Height);
+
+        }
+
+
+        private void OnMouseEnter(object sender, EventArgs e)
+        {
+            lblVolver.Font = new System.Drawing.Font(&quot;Nirmala UI&quot;, 12F, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, 0);
+
+        }
+
+        private void OnMouseLeave(object sender, EventArgs e)
+        {
+            lblVolver.Font = new System.Drawing.Font(&quot;Nirmala UI&quot;, 9.75F, System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, 0);
+        }
+
+
+
+        private void CargarGrilla()
+        {
+            SqlConnection con = new SqlConnection(&quot;Data Source=localhost;Initial Catalog=Hospital;Integrated Security=True&quot;);
+            string consulta = &quot;Select * from Donantes&quot;;
+            SqlDataAdapter adaptador = new SqlDataAdapter(consulta, con);
+            DataTable dt = new DataTable();
+            adaptador.Fill(dt);
+            dgvDonantes.DataSource = dt;
+
+        }
+
+        private void Limpiar()
+        {
+            txtApellido.Clear();
+            txtDni.Clear();
+            txtNombre.Clear();
+            rbNo.Checked = false;
+            rbSi.Checked = false;
+            cmbRH.SelectedIndex = -1;
+            cmbTipoDeSangre.SelectedIndex = -1;
+
+        }
+
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            Limpiar();
+        }
+
+        private void Hora_Tick(object sender, EventArgs e)
+        {
+            txtFechayHora.Text = DateTime.Now.ToString(&quot;dd/MM/yy HH:mm:ss&quot;);
+        }
+
+        private void lblVolver_Click(object sender, EventArgs e)
+        {
+            string temp_usuario = lblUsuario.Text;
+            string comando = &quot;SELECT estado FROM Personal WHERE Usuario = @usuario&quot;;
+
+            using (SqlConnection con = new SqlConnection(&quot;Data Source=localhost;Initial Catalog=Hospital;Integrated Security=True&quot;))
+            {
+                SqlCommand cmd = new SqlCommand(comando, con);
+                cmd.Parameters.AddWithValue(&quot;@usuario&quot;, temp_usuario);
+
+                con.Open();
+
+                using (SqlDataReader datos = cmd.ExecuteReader())
+                {
+                    if (datos.Read())
+                    {
+                        string estado = datos[&quot;estado&quot;].ToString();
+
+                        if (estado == &quot;N&quot;)
+                        {
+                            new OPCIONES_1().Show();
+                            this.Hide();
+                        }
+                        else if (estado == &quot;P&quot;)
+                        {
+                            new OPCIONES_2().Show();
+                            this.Hide();
+                        }
+                        else if (estado == &quot;A&quot;)
+                        {
+                            new OPCIONES().Show();
+                            this.Hide();
+                        }
+                    }
+                }
+            }
+        }
+
+        private void btnRegistrar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (!ValidarDni(txtDni.Text) || DonanteExiste(txtDni.Text))
+                {
+                    MostrarMensajeError(&quot;Error al registrar donante.&quot;);
+                    return;
+                }
+
+                if (ValidarCampos())
+                {
+                    RegistrarDonante();
+                    ActualizarBancoDeSangre();
+                    MostrarMensajeExito(&quot;Registro realizado con &#233;xito.&quot;);
+                    Limpiar();
+                    CargarGrilla();
+                }
+                else
+                {
+                    MostrarMensajeError(&quot;Completar todos los campos.&quot;);
+                }
+            }
+            catch (Exception ex)
+            {
+                MostrarMensajeError(&quot;Error: &quot; + ex.Message);
+            }
+        }
+
+        private bool ValidarDni(string dni)
+        {
+            return dni.Length == 8;
+        }
+
+        private bool DonanteExiste(string dni)
+        {
+            using (SqlConnection con = new SqlConnection(&quot;Data Source=localhost;Initial Catalog=Hospital;Integrated Security=True&quot;))
+            {
+                con.Open();
+                string selectQuery = &quot;SELECT COUNT(*) FROM Donantes WHERE dni = @dni&quot;;
+                using (SqlCommand cmdSelect = new SqlCommand(selectQuery, con))
+                {
+                    cmdSelect.Parameters.AddWithValue(&quot;@dni&quot;, dni);
+                    int count = (int)cmdSelect.ExecuteScalar();
+                    return count &gt; 0;
+                }
+            }
+        }
+
+        private bool ValidarCampos()
+        {
+            return !string.IsNullOrEmpty(txtDni.Text) &amp;&amp;
+                   !string.IsNullOrEmpty(txtNombre.Text) &amp;&amp;
+                   !string.IsNullOrEmpty(txtApellido.Text) &amp;&amp;
+                   cmbTipoDeSangre.SelectedIndex != -1 &amp;&amp;
+                   cmbRH.SelectedIndex != -1 &amp;&amp;
+                   !rbSi.Checked &amp;&amp;
+                   rbNo.Checked;
+        }
+
+        private void RegistrarDonante()
+        {
+            using (SqlConnection con = new SqlConnection(&quot;Data Source=localhost;Initial Catalog=Hospital;Integrated Security=True&quot;))
+            {
+                con.Open();
+                string insertQuery = &quot;INSERT INTO Donantes (dni, nombre, apellido, tipo, rh, litros) VALUES (@dni, @nombre, @apellido, @tipoSangre, @rh, @litros)&quot;;
+                using (SqlCommand cmdInsert = new SqlCommand(insertQuery, con))
+                {
+                    cmdInsert.Parameters.AddWithValue(&quot;@dni&quot;, txtDni.Text);
+                    cmdInsert.Parameters.AddWithValue(&quot;@nombre&quot;, txtNombre.Text);
+                    cmdInsert.Parameters.AddWithValue(&quot;@apellido&quot;, txtApellido.Text);
+                    cmdInsert.Parameters.AddWithValue(&quot;@tipoSangre&quot;, cmbTipoDeSangre.SelectedItem.ToString());
+                    cmdInsert.Parameters.AddWithValue(&quot;@rh&quot;, cmbRH.SelectedItem.ToString());
+                    cmdInsert.Parameters.AddWithValue(&quot;@litros&quot;, float.Parse(txtLitros.Text)); // Convertir a float si es necesario
+                    cmdInsert.ExecuteNonQuery();
+                }
+            }
+        }
+
+
+        private void ActualizarBancoDeSangre()
+        {
+            string connectionString = &quot;Data Source=localhost;Initial Catalog=Hospital;Integrated Security=True&quot;;
+
+            using (SqlConnection con = new SqlConnection(connectionString))
+            {
+                con.Open();
+
+                // Query para actualizar la cantidad de litros en BancoDeSangre
+                string updateQuery = @&quot;
+            UPDATE BancoDeSangre 
+            SET Litros = (SELECT Litros FROM BancoDeSangre WHERE Tipo = @tipoSangre AND Rh = @rh) + @litros 
+            WHERE Tipo = @tipoSangre AND Rh = @rh&quot;;
+
+                using (SqlCommand cmdUpdate = new SqlCommand(updateQuery, con))
+                {
+                    // Configurar par&#225;metros
+                    cmdUpdate.Parameters.AddWithValue(&quot;@tipoSangre&quot;, cmbTipoDeSangre.Text); // Obtener el tipo de sangre del ComboBox
+                    cmdUpdate.Parameters.AddWithValue(&quot;@rh&quot;, cmbRH.Text); // Obtener el factor Rh del ComboBox
+                    cmdUpdate.Parameters.AddWithValue(&quot;@litros&quot;, 0.5); // Asumiendo que txtLitros.Text es 0.5
+
+                    // Ejecutar la consulta de actualizaci&#243;n
+                    cmdUpdate.ExecuteNonQuery();
+                }
+            }
+        }
+
+
+        private void MostrarMensajeError(string mensaje)
+        {
+            MessageBox.Show(mensaje, &quot;Banco de Sangre&quot;, MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
+
+        private void MostrarMensajeExito(string mensaje)
+        {
+            MessageBox.Show(mensaje, &quot;Banco de Sangre&quot;, MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+
+        private Rectangle ReclblVolver;
+        private Rectangle ReclblTitulo;
+        private Rectangle ReclblUsuario;
+        private Rectangle ReclblDni;
+        private Rectangle RectxtDni;
+        private Rectangle RecFactorRh;
+        private Rectangle RectxtFactorRh;
+        private Rectangle ReclblNombre;
+        private Rectangle RectxtNombre;
+        private Rectangle ReclblFecha;
+        private Rectangle RectxtFecha;
+        private Rectangle ReclblApellido;
+        private Rectangle RectxtApellido;
+        private Rectangle ReclblCondicion;
+        private Rectangle RecrbSi;
+        private Rectangle ReclblTipodeSangre;
+        private Rectangle ReccmbTipodeSangre;
+        private Rectangle RecrbNo;
+        private Rectangle RecbtnRegistrar;
+        private Rectangle RecbtnLimpiar;
+        private Rectangle RecbtnModificar;
+        private Rectangle RecdgvDonantes;
+        private Rectangle ReclblLitros;
+        private Rectangle RectxtLitros;
+        private Size formOriginalSize;
+
+
+        private void resizeControl(Rectangle OriginalControlRect, Control control)
+        {
+            float xRatio = (float)(this.Width) / (float)(formOriginalSize.Width);
+            float yRatio = (float)(this.Height) / (float)(formOriginalSize.Height);
+
+
+            int newX = (int)(OriginalControlRect.X * xRatio);
+            int newY = (int)(OriginalControlRect.Y * yRatio);
+
+            int newWidth = (int)(OriginalControlRect.Width * xRatio);
+            int newHeight = (int)(OriginalControlRect.Height * yRatio);
+
+            control.Location = new Point(newX, newY);
+            control.Size = new Size(newWidth, newHeight);
+
+        }
+
+        private void RegistroDonantes_Resize(object sender, EventArgs e)
+        {
+            resizeControl(ReclblVolver, lblVolver);
+            resizeControl(ReclblTitulo, lblTitulo);
+            resizeControl(ReclblUsuario, lblUsuario);
+            resizeControl(ReclblDni, lblDni);
+            resizeControl(RectxtDni, txtDni);
+            resizeControl(RecFactorRh, lblFactorRH);
+            resizeControl(RectxtFactorRh, cmbRH);
+            resizeControl(ReclblNombre, lblNombre);
+            resizeControl(RectxtNombre, txtNombre);
+            resizeControl(ReclblFecha, lblFechaHora);
+            resizeControl(RectxtFecha, txtFechayHora);
+            resizeControl(ReclblApellido, lblApellido);
+            resizeControl(RectxtApellido, txtApellido);
+            resizeControl(ReclblCondicion, lblCondicion);
+            resizeControl(RectxtLitros, txtLitros);
+            resizeControl(ReclblLitros, lblLitros);
+            resizeControl(ReclblTipodeSangre, lblTipoSangre);
+            resizeControl(ReccmbTipodeSangre, cmbTipoDeSangre);
+            resizeControl(RecrbNo, rbNo);
+            resizeControl(RecrbSi, rbSi);
+            resizeControl(RecbtnRegistrar, btnRegistrar);
+            resizeControl(RecbtnLimpiar, btnLimpiar);
+            resizeControl(RecbtnModificar, btnModificar);
+            resizeControl(RecdgvDonantes, dgvDonantes);
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (ValidarDni(txtDni.Text) &amp;&amp; ValidarCampos())
+                {
+                    ModificarDonante();
+                    MostrarMensajeExito(&quot;Registros modificados con &#233;xito.&quot;);
+                    Limpiar();
+                    CargarGrilla(); // Si existe, aseg&#250;rate de implementar este m&#233;todo para actualizar la grilla
+                }
+                else
+                {
+                    MostrarMensajeError(&quot;Completar todos los campos correctamente.&quot;);
+                }
+            }
+            catch (Exception ex)
+            {
+                MostrarMensajeError(&quot;Error: &quot; + ex.Message);
+            }
+        }
+
+
+        private void ModificarDonante()
+        {
+            using (SqlConnection con = new SqlConnection(&quot;Data Source=localhost;Initial Catalog=Hospital;Integrated Security=True&quot;))
+            {
+                con.Open();
+                string updateQuery = &quot;UPDATE DONANTES SET nombre = @nombre, apellido = @apellido, tipoSangre = @tipoSangre, rh = @rh, litros = @litros WHERE dni = @dni&quot;;
+                using (SqlCommand cmdUpdate = new SqlCommand(updateQuery, con))
+                {
+                    cmdUpdate.Parameters.AddWithValue(&quot;@dni&quot;, txtDni.Text);
+                    cmdUpdate.Parameters.AddWithValue(&quot;@nombre&quot;, txtNombre.Text);
+                    cmdUpdate.Parameters.AddWithValue(&quot;@apellido&quot;, txtApellido.Text);
+                    cmdUpdate.Parameters.AddWithValue(&quot;@tipoSangre&quot;, cmbTipoDeSangre.Text);
+                    cmdUpdate.Parameters.AddWithValue(&quot;@rh&quot;, cmbRH.Text);
+                    cmdUpdate.Parameters.AddWithValue(&quot;@litros&quot;, txtLitros.Text);
+                    cmdUpdate.ExecuteNonQuery();
+                }
+            }
+        }
+
+        private void dgvDonantes_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            txtDni.Text = Convert.ToString(dgvDonantes.CurrentRow.Cells[&quot;dni&quot;].Value);
+            txtNombre.Text = Convert.ToString(dgvDonantes.CurrentRow.Cells[&quot;nombre&quot;].Value);
+            txtApellido.Text = Convert.ToString(dgvDonantes.CurrentRow.Cells[&quot;apellido&quot;].Value);
+            string RH = Convert.ToString(dgvDonantes.CurrentRow.Cells[&quot;rh&quot;].Value);
+            string Tipo = Convert.ToString(dgvDonantes.CurrentRow.Cells[&quot;tipo&quot;].Value);
+
+            if (RH.Equals(&quot;+&quot;))
+            {
+
+                cmbRH.SelectedIndex = 0;
+
+            }
+            else
+            {
+                cmbRH.SelectedIndex = 1;
+
+
+            }
+
+            if (Tipo.Equals(&quot;A&quot;))
+            {
+
+                cmbTipoDeSangre.SelectedIndex = 0;
+
+            }
+            else if (Tipo.Equals(&quot;B&quot;))
+            {
+                cmbTipoDeSangre.SelectedIndex = 1;
+            }
+            else if (Tipo.Equals(&quot;O&quot;))
+            {
+                cmbTipoDeSangre.SelectedIndex = 2;
+            }
+            else
+            {
+                cmbTipoDeSangre.SelectedIndex = 3;
+            }
+        }
+    }
+
+
+}
+
+    </pre>
+    <script type="text/javascript">
+      highlightRanges([[21,9,21,65,0],[22,9,22,10,0],[23,13,23,35,0],[24,13,24,134,0],[25,9,25,10,0],[27,9,27,34,1],[28,9,28,10,1],[31,13,31,35,1],[33,13,33,62,1],[34,13,34,72,1],[35,13,35,50,1],[36,13,36,50,1],[38,13,38,102,1],[39,9,39,10,1],[41,9,41,10,1],[43,13,43,32,1],[44,9,44,10,1],[47,9,47,10,1],[48,13,48,51,1],[49,13,49,28,1],[53,13,53,42,1],[54,13,54,121,1],[55,13,55,121,1],[56,13,56,126,1],[57,13,57,106,1],[58,13,58,106,1],[59,13,59,128,1],[60,13,60,107,1],[61,13,61,121,1],[62,13,62,121,1],[63,13,63,132,1],[64,13,64,136,1],[65,13,65,131,1],[66,13,66,131,1],[67,13,67,136,1],[68,13,68,96,1],[69,13,69,143,1],[70,13,70,151,1],[71,13,71,96,1],[72,13,72,121,1],[73,13,73,121,1],[74,13,74,136,1],[75,13,75,126,1],[76,13,76,136,1],[77,13,77,131,1],[79,9,79,10,1],[83,9,83,10,0],[84,13,84,179,0],[86,9,86,10,0],[89,9,89,10,0],[90,13,90,181,0],[91,9,91,10,0],[96,9,96,10,1],[97,13,97,126,1],[98,13,98,56,1],[99,13,99,74,1],[100,13,100,44,1],[101,13,101,32,1],[102,13,102,41,1],[104,9,104,10,1],[107,9,107,10,1],[108,13,108,33,1],[109,13,109,28,1],[110,13,110,31,1],[111,13,111,34,1],[112,13,112,34,1],[113,13,113,38,1],[114,13,114,48,1],[116,9,116,10,1],[120,9,120,10,0],[121,13,121,23,0],[122,9,122,10,0],[125,9,125,10,1],[126,13,126,77,1],[127,9,127,10,1],[130,9,130,10,0],[131,13,131,51,0],[132,13,132,85,0],[134,20,134,132,0],[135,13,135,14,0],[136,17,136,63,0],[137,17,137,71,0],[139,17,139,28,0],[141,24,141,65,0],[142,17,142,18,0],[143,21,143,38,0],[144,21,144,22,0],[145,25,145,68,0],[147,25,147,43,0],[148,25,148,26,0],[149,29,149,53,0],[150,29,150,41,0],[151,25,151,26,0],[152,30,152,48,0],[153,25,153,26,0],[154,29,154,53,0],[155,29,155,41,0],[156,25,156,26,0],[157,30,157,48,0],[158,25,158,26,0],[159,29,159,51,0],[160,29,160,41,0],[161,25,161,26,0],[162,21,162,22,0],[163,17,163,18,0],[164,13,164,14,0],[165,9,165,10,0],[168,9,168,10,0],[170,13,170,14,0],[171,17,171,76,0],[172,17,172,18,0],[173,21,173,72,0],[174,21,174,28,0],[177,17,177,37,0],[178,17,178,18,0],[179,21,179,40,0],[180,21,180,47,0],[181,21,181,74,0],[182,21,182,31,0],[183,21,183,36,0],[184,17,184,18,0],[186,17,186,18,0],[187,21,187,72,0],[188,17,188,18,0],[189,13,189,14,0],[190,13,190,33,0],[191,13,191,14,0],[192,17,192,61,0],[193,13,193,14,0],[194,9,194,10,0],[197,9,197,10,1],[198,13,198,36,1],[199,9,199,10,1],[202,9,202,10,1],[203,20,203,132,1],[204,13,204,14,1],[205,17,205,28,1],[206,17,206,87,1],[207,24,207,79,1],[208,17,208,18,1],[209,21,209,68,1],[210,21,210,64,1],[211,21,211,38,1],[214,9,214,10,1],[217,9,217,10,1],[218,13,224,33,1],[225,9,225,10,1],[228,9,228,10,1],[229,20,229,132,1],[230,13,230,14,1],[231,17,231,28,1],[232,17,232,164,1],[233,24,233,79,1],[234,17,234,18,1],[235,21,235,76,1],[236,21,236,82,1],[237,21,237,86,1],[238,21,238,111,1],[239,21,239,93,1],[240,21,240,95,1],[241,21,241,49,1],[242,17,242,18,1],[243,13,243,14,1],[244,9,244,10,1],[248,9,248,10,1],[249,13,249,113,1],[251,20,251,75,1],[252,13,252,14,1],[253,17,253,28,1],[256,17,259,52,1],[261,24,261,79,1],[262,17,262,18,1],[264,21,264,92,1],[265,21,265,74,1],[266,21,266,71,1],[269,21,269,49,1],[270,17,270,18,1],[271,13,271,14,1],[272,9,272,10,1],[276,9,276,10,0],[277,13,277,101,0],[278,9,278,10,0],[281,9,281,10,0],[282,13,282,107,0],[283,9,283,10,0],[314,9,314,10,1],[315,13,315,82,1],[316,13,316,84,1],[319,13,319,62,1],[320,13,320,62,1],[322,13,322,70,1],[323,13,323,72,1],[325,13,325,54,1],[326,13,326,58,1],[328,9,328,10,1],[331,9,331,10,1],[332,13,332,52,1],[333,13,333,52,1],[334,13,334,54,1],[335,13,335,46,1],[336,13,336,46,1],[337,13,337,53,1],[338,13,338,50,1],[339,13,339,52,1],[340,13,340,52,1],[341,13,341,54,1],[342,13,342,55,1],[343,13,343,56,1],[344,13,344,56,1],[345,13,345,58,1],[346,13,346,52,1],[347,13,347,52,1],[348,13,348,62,1],[349,13,349,64,1],[350,13,350,42,1],[351,13,351,42,1],[352,13,352,58,1],[353,13,353,54,1],[354,13,354,58,1],[355,13,355,56,1],[356,9,356,10,1],[359,9,359,10,0],[361,13,361,14,0],[362,17,362,64,0],[363,17,363,18,0],[364,21,364,40,0],[365,21,365,77,0],[366,21,366,31,0],[367,21,367,36,0],[368,17,368,18,0],[370,17,370,18,0],[371,21,371,86,0],[372,17,372,18,0],[373,13,373,14,0],[374,13,374,33,0],[375,13,375,14,0],[376,17,376,61,0],[377,13,377,14,0],[378,9,378,10,0],[382,9,382,10,0],[383,20,383,132,0],[384,13,384,14,0],[385,17,385,28,0],[386,17,386,170,0],[387,24,387,79,0],[388,17,388,18,0],[389,21,389,76,0],[390,21,390,82,0],[391,21,391,86,0],[392,21,392,92,0],[393,21,393,74,0],[394,21,394,82,0],[395,21,395,49,0],[396,17,396,18,0],[397,13,397,14,0],[398,9,398,10,0],[401,9,401,10,0],[402,13,402,87,0],[403,13,403,93,0],[404,13,404,97,0],[405,13,405,84,0],[406,13,406,88,0],[408,13,408,32,0],[409,13,409,14,0],[411,17,411,41,0],[413,13,413,14,0],[415,13,415,14,0],[416,17,416,41,0],[419,13,419,14,0],[421,13,421,34,0],[422,13,422,14,0],[424,17,424,51,0],[426,13,426,14,0],[427,18,427,39,0],[428,13,428,14,0],[429,17,429,51,0],[430,13,430,14,0],[431,18,431,39,0],[432,13,432,14,0],[433,17,433,51,0],[434,13,434,14,0],[436,13,436,14,0],[437,17,437,51,0],[438,13,438,14,0],[439,9,439,10,0]]);
+    </script>
+  </body>
+</html>

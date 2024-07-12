@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\FINAL\ProyectoU2 Version 9\ProyectoFinal\TestOpciones1.cs</title>
+    <script type="text/javascript" src="../js/dotcover.sourceview.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/dotcover.report.css" />
+  </head>
+  <body>
+    <pre id="content" class="source-code">
+using NUnit.Framework;
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace Proyecto_Final_Blood_Bank.Tests
+{
+    [TestFixture]
+    internal class TestOpciones1
+    {
+        private OPCIONES_1 form;
+
+        [SetUp]
+        public void SetUp()
+        {
+            // Configurar el formulario y el contexto de la prueba
+            form = new OPCIONES_1();
+            form.Show(); // Mostrar el formulario para pruebas
+        }
+
+        [Test]
+        public void TestOPCIONES_1_Load()
+        {
+            // Llamar al m&#233;todo OPCIONES_1_Load
+            form.OPCIONES_1_Load(null, EventArgs.Empty);
+        }
+
+        [Test]
+        public void TestOnMouseEnter()
+        {
+            // Simular el evento MouseEnter
+            form.OnMouseEnter(null, EventArgs.Empty);
+
+            // Verificar que la fuente de LogOut haya cambiado
+            Assert.That(form.LogOut.Font, Is.EqualTo(new Font(&quot;Nirmala UI&quot;, 12F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0)));
+        }
+
+        [Test]
+        public void TestOnMouseLeave()
+        {
+            // Simular el evento MouseLeave
+            form.OnMouseLeave(null, EventArgs.Empty);
+
+            // Verificar que la fuente de LogOut haya cambiado
+            Assert.That(form.LogOut.Font, Is.EqualTo(new Font(&quot;Nirmala UI&quot;, 9.75F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0)));
+        }
+
+        [Test]
+        public void TestResize()
+        {
+            // Simular un cambio de tama&#241;o en el formulario
+            form.Size = new Size(1024, 768);
+            form.OPCIONES_1_Resize(null, EventArgs.Empty);
+        }
+
+        [Test]
+        public void TestBtnPacientes_Click()
+        {
+            // Simular el evento click del bot&#243;n Pacientes
+            form.btnPacientes_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES_1 no se ha ocultado correctamente despu&#233;s de hacer clic en btnPacientes.&quot;);
+        }
+
+        [Test]
+        public void TestBtnDonantes_Click()
+        {
+            // Simular el evento click del bot&#243;n Donantes
+            form.btnDonantes_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES_1 no se ha ocultado correctamente despu&#233;s de hacer clic en btnDonantes.&quot;);
+        }
+
+        [Test]
+        public void TestLogOut_Click()
+        {
+            // Simular el evento click del bot&#243;n LogOut
+            form.LogOut_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES_1 no se ha ocultado correctamente despu&#233;s de hacer clic en LogOut.&quot;);
+        }
+
+        [TearDown]
+        public void TearDown()
+        {
+            // Cerrar el formulario al finalizar las pruebas si no se ha cerrado
+            if (form != null &amp;&amp; !form.IsDisposed)
+            {
+                form.Close();
+            }
+        }
+    }
+}
+
+    </pre>
+    <script type="text/javascript">
+      highlightRanges([[15,9,15,10,1],[17,13,17,37,1],[18,13,18,25,1],[19,9,19,10,1],[23,9,23,10,1],[25,13,25,57,1],[26,9,26,10,1],[30,9,30,10,1],[32,13,32,54,1],[35,13,35,145,1],[36,9,36,10,1],[40,9,40,10,1],[42,13,42,54,1],[45,13,45,147,1],[46,9,46,10,1],[50,9,50,10,1],[52,13,52,45,1],[53,13,53,59,1],[54,9,54,10,1],[58,9,58,10,1],[60,13,60,60,1],[63,13,63,148,1],[64,9,64,10,1],[68,9,68,10,1],[70,13,70,59,1],[73,13,73,147,1],[74,9,74,10,1],[78,9,78,10,1],[80,13,80,54,1],[83,13,83,142,1],[84,9,84,10,1],[88,9,88,10,1],[90,13,90,50,1],[91,13,91,14,1],[92,17,92,30,1],[93,13,93,14,1],[94,9,94,10,1]]);
+    </script>
+  </body>
+</html>

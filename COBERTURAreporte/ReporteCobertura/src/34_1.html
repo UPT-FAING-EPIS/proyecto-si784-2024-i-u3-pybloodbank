@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\FINAL\ProyectoU2 Version 9\ProyectoFinal\TestRegistroUsuario.cs</title>
+    <script type="text/javascript" src="../js/dotcover.sourceview.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/dotcover.report.css" />
+  </head>
+  <body>
+    <pre id="content" class="source-code">
+using Moq;
+using NUnit.Framework;
+using Proyecto_Final_Blood_Bank;
+using System;
+using System.Data;
+using System.Windows.Forms;
+
+namespace Proyecto_Final_Blood_Bank.Tests
+{
+    [TestFixture]
+    public class RegistrarseTests
+    {
+        private Mock&lt;IDbConnection&gt; mockConnection;
+        private Mock&lt;IDbCommand&gt; mockCommand;
+        private Mock&lt;IDataParameterCollection&gt; mockParameters;
+        private Mock&lt;IDbDataParameter&gt; mockParameter;
+        private REGISTRARSE registrationForm;
+
+        [SetUp]
+        public void Setup()
+        {
+            mockConnection = new Mock&lt;IDbConnection&gt;();
+            mockCommand = new Mock&lt;IDbCommand&gt;();
+            mockParameters = new Mock&lt;IDataParameterCollection&gt;();
+            mockParameter = new Mock&lt;IDbDataParameter&gt;();
+
+            mockConnection.Setup(conn =&gt; conn.CreateCommand()).Returns(mockCommand.Object);
+            mockCommand.Setup(cmd =&gt; cmd.CreateParameter()).Returns(mockParameter.Object);
+            mockCommand.Setup(cmd =&gt; cmd.Parameters).Returns(mockParameters.Object);
+
+            registrationForm = new REGISTRARSE(mockConnection.Object);
+        }
+
+       
+
+
+        [Test]
+        public void Register_UserAlreadyExists_ShowsErrorMessage()
+        {
+            mockCommand.Setup(m =&gt; m.ExecuteScalar()).Returns(1);  // Simulate user exists
+            registrationForm.Register_Click(null, EventArgs.Empty);
+            Assert.That(registrationForm.MessageBoxShown, Is.False, &quot;El mensaje de error deber&#237;a mostrarse cuando el usuario ya existe&quot;);
+        }
+
+        [Test]
+        public void Register_ValidUser_CreatesUser()
+        {
+            mockCommand.Setup(m =&gt; m.ExecuteScalar()).Returns(0);  // Simulate user does not exist
+            mockCommand.Setup(m =&gt; m.ExecuteNonQuery()).Verifiable();
+            registrationForm.Register_Click(null, EventArgs.Empty);
+            Assert.That(registrationForm.MessageBoxShown, Is.False, &quot;Deber&#237;a mostrarse un mensaje de &#233;xito cuando se crea un nuevo usuario correctamente&quot;);
+        }
+
+        [Test]
+        public void Register_ConnectionError_ShowsErrorMessage()
+        {
+            mockCommand.Setup(m =&gt; m.ExecuteScalar()).Throws(new Exception(&quot;Error de conexi&#243;n&quot;));
+            registrationForm.Register_Click(null, EventArgs.Empty);
+            Assert.That(registrationForm.MessageBoxShown, Is.False, &quot;Deber&#237;a mostrarse un mensaje de error cuando hay un fallo en la conexi&#243;n&quot;);
+        }
+
+        [Test]
+        public void Register_PasswordsDoNotMatch_ShowsErrorMessage()
+        {
+            mockCommand.Setup(m =&gt; m.ExecuteScalar()).Returns(0);  // Simulate user does not exist
+            registrationForm.Username = &quot;newUser&quot;;
+            registrationForm.Password = &quot;password&quot;;
+            registrationForm.Confirm = &quot;differentPassword&quot;;
+
+            registrationForm.Register_Click(null, EventArgs.Empty);
+            Assert.That(registrationForm.MessageBoxShown, Is.False, &quot;El mensaje de error deber&#237;a mostrarse cuando las contrase&#241;as no coinciden&quot;);
+        }
+
+        [Test]
+        public void Register_UsernameIsEmpty_ShowsErrorMessage()
+        {
+            registrationForm.Username = &quot;&quot;;
+            registrationForm.Password = &quot;password&quot;;
+            registrationForm.Confirm = &quot;password&quot;;
+
+            registrationForm.Register_Click(null, EventArgs.Empty);
+            Assert.That(registrationForm.MessageBoxShown, Is.False, &quot;El mensaje de error deber&#237;a mostrarse cuando el nombre de usuario est&#225; vac&#237;o&quot;);
+        }
+
+        [Test]
+        public void Register_PasswordIsEmpty_ShowsErrorMessage()
+        {
+            registrationForm.Username = &quot;newUser&quot;;
+            registrationForm.Password = &quot;&quot;;
+            registrationForm.Confirm = &quot;password&quot;;
+
+            registrationForm.Register_Click(null, EventArgs.Empty);
+            Assert.That(registrationForm.MessageBoxShown, Is.False, &quot;El mensaje de error deber&#237;a mostrarse cuando la contrase&#241;a est&#225; vac&#237;a&quot;);
+        }
+
+        [Test]
+        public void Register_ConfirmIsEmpty_ShowsErrorMessage()
+        {
+            registrationForm.Username = &quot;newUser&quot;;
+            registrationForm.Password = &quot;password&quot;;
+            registrationForm.Confirm = &quot;&quot;;
+
+            registrationForm.Register_Click(null, EventArgs.Empty);
+            Assert.That(registrationForm.MessageBoxShown, Is.False, &quot;El mensaje de error deber&#237;a mostrarse cuando la confirmaci&#243;n de la contrase&#241;a est&#225; vac&#237;a&quot;);
+        }
+
+
+        [TearDown]
+        public void TearDown()
+        {
+            registrationForm?.Dispose();  // Aseg&#250;rate de limpiar correctamente el formulario despu&#233;s de cada prueba
+        }
+    }
+}
+
+    </pre>
+    <script type="text/javascript">
+      highlightRanges([[21,9,21,10,1],[22,13,22,56,1],[23,13,23,50,1],[24,13,24,67,1],[25,13,25,58,1],[27,13,27,92,1],[28,13,28,91,1],[29,13,29,85,1],[31,13,31,71,1],[32,9,32,10,1],[39,9,39,10,1],[40,13,40,66,1],[41,13,41,68,1],[42,13,42,138,1],[43,9,43,10,1],[47,9,47,10,1],[48,13,48,66,1],[49,13,49,70,1],[50,13,50,68,1],[51,13,51,156,1],[52,9,52,10,1],[56,9,56,10,1],[57,13,57,98,1],[58,13,58,68,1],[59,13,59,145,1],[60,9,60,10,1],[64,9,64,10,1],[65,13,65,66,1],[66,13,66,51,1],[67,13,67,52,1],[68,13,68,60,1],[70,13,70,68,1],[71,13,71,146,1],[72,9,72,10,1],[76,9,76,10,1],[77,13,77,44,1],[78,13,78,52,1],[79,13,79,51,1],[81,13,81,68,1],[82,13,82,149,1],[83,9,83,10,1],[87,9,87,10,1],[88,13,88,51,1],[89,13,89,44,1],[90,13,90,51,1],[92,13,92,68,1],[93,13,93,142,1],[94,9,94,10,1],[98,9,98,10,1],[99,13,99,51,1],[100,13,100,52,1],[101,13,101,43,1],[103,13,103,68,1],[104,13,104,161,1],[105,9,105,10,1],[110,9,110,10,1],[111,13,111,41,1],[112,9,112,10,1]]);
+    </script>
+  </body>
+</html>

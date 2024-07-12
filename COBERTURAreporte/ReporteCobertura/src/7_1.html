@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\FINAL\ProyectoU2 Version 9\ProyectoFinal\TestOpciones3.cs</title>
+    <script type="text/javascript" src="../js/dotcover.sourceview.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/dotcover.report.css" />
+  </head>
+  <body>
+    <pre id="content" class="source-code">
+using NUnit.Framework;
+using System;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace Proyecto_Final_Blood_Bank.Tests
+{
+    [TestFixture]
+    internal class TestOpciones3
+    {
+        private OPCIONES form;
+
+        [SetUp]
+        public void SetUp()
+        {
+            // Configurar el formulario y el contexto de la prueba
+            form = new OPCIONES();
+            form.Show(); // Mostrar el formulario para pruebas
+        }
+
+        [Test]
+        public void TestOPCIONES_Load()
+        {
+            // Llamar al m&#233;todo OPCIONES_Load
+            form.OPCIONES_Load(null, EventArgs.Empty);
+        }
+
+        [Test]
+        public void TestOnMouseEnter()
+        {
+            // Simular el evento MouseEnter
+            form.OnMouseEnter(null, EventArgs.Empty);
+
+            // Verificar que la fuente de LogOut haya cambiado
+            Assert.That(form.LogOut.Font, Is.EqualTo(new Font(&quot;Nirmala UI&quot;, 12F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0)));
+        }
+
+        [Test]
+        public void TestOnMouseLeave()
+        {
+            // Simular el evento MouseLeave
+            form.OnMouseLeave(null, EventArgs.Empty);
+
+            // Verificar que la fuente de LogOut haya cambiado
+            Assert.That(form.LogOut.Font, Is.EqualTo(new Font(&quot;Nirmala UI&quot;, 9.75F, FontStyle.Bold | FontStyle.Underline, GraphicsUnit.Point, 0)));
+        }
+
+        [Test]
+        public void TestResize()
+        {
+            // Simular un cambio de tama&#241;o en el formulario
+            form.Size = new Size(1024, 768);
+            form.OPCIONES_Resize(null, EventArgs.Empty);
+        }
+
+        [Test]
+        public void TestBtnBanco_Click()
+        {
+            // Simular el evento click del bot&#243;n Banco
+            form.btnBanco_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES no se ha ocultado correctamente despu&#233;s de hacer clic en btnBanco.&quot;);
+        }
+
+        [Test]
+        public void TestBtnPersonal_Click()
+        {
+            // Simular el evento click del bot&#243;n Personal
+            form.btnPersonal_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES no se ha ocultado correctamente despu&#233;s de hacer clic en btnPersonal.&quot;);
+        }
+
+        [Test]
+        public void TestBtnPacientes_Click()
+        {
+            // Simular el evento click del bot&#243;n Pacientes
+            form.btnPacientes_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES no se ha ocultado correctamente despu&#233;s de hacer clic en btnPacientes.&quot;);
+        }
+
+        [Test]
+        public void TestBtnInforme_Click()
+        {
+            // Simular el evento click del bot&#243;n Informe
+            form.btnInforme_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES no se ha ocultado correctamente despu&#233;s de hacer clic en btnInforme.&quot;);
+        }
+
+        [Test]
+        public void TestBtnDonantes_Click()
+        {
+            // Simular el evento click del bot&#243;n Donantes
+            form.btnDonantes_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES no se ha ocultado correctamente despu&#233;s de hacer clic en btnDonantes.&quot;);
+        }
+
+        [Test]
+        public void TestLogOut_Click()
+        {
+            // Simular el evento click del bot&#243;n LogOut
+            form.LogOut_Click(null, EventArgs.Empty);
+
+            // Verificar que se haya ocultado el formulario actual
+            Assert.That(form.Visible, Is.False, &quot;El formulario OPCIONES no se ha ocultado correctamente despu&#233;s de hacer clic en LogOut.&quot;);
+        }
+
+        [TearDown]
+        public void TearDown()
+        {
+            // Cerrar el formulario al finalizar las pruebas si no se ha cerrado
+            if (form != null &amp;&amp; !form.IsDisposed)
+            {
+                form.Close();
+            }
+        }
+    }
+}
+
+    </pre>
+    <script type="text/javascript">
+      highlightRanges([[15,9,15,10,1],[17,13,17,35,1],[18,13,18,25,1],[19,9,19,10,1],[23,9,23,10,1],[25,13,25,55,1],[26,9,26,10,1],[30,9,30,10,1],[32,13,32,54,1],[35,13,35,145,1],[36,9,36,10,1],[40,9,40,10,1],[42,13,42,54,1],[45,13,45,147,1],[46,9,46,10,1],[50,9,50,10,1],[52,13,52,45,1],[53,13,53,57,1],[54,9,54,10,1],[58,9,58,10,1],[60,13,60,56,1],[63,13,63,142,1],[64,9,64,10,1],[68,9,68,10,1],[70,13,70,59,1],[73,13,73,145,1],[74,9,74,10,1],[78,9,78,10,1],[80,13,80,60,1],[83,13,83,146,1],[84,9,84,10,1],[88,9,88,10,1],[90,13,90,58,1],[93,13,93,144,1],[94,9,94,10,1],[98,9,98,10,1],[100,13,100,59,1],[103,13,103,145,1],[104,9,104,10,1],[108,9,108,10,1],[110,13,110,54,1],[113,13,113,140,1],[114,9,114,10,1],[118,9,118,10,1],[120,13,120,50,1],[121,13,121,14,1],[122,17,122,30,1],[123,13,123,14,1],[124,9,124,10,1]]);
+    </script>
+  </body>
+</html>

@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\FINAL\ProyectoU2 Version 9\ProyectoFinal\BANCO DE SANGRE.Designer.cs</title>
+    <script type="text/javascript" src="../js/dotcover.sourceview.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/dotcover.report.css" />
+  </head>
+  <body>
+    <pre id="content" class="source-code">
+namespace Proyecto_Final_Blood_Bank
+{
+    partial class BANCO_DE_SANGRE
+    {
+        /// &lt;summary&gt;
+        /// Required designer variable.
+        /// &lt;/summary&gt;
+        private System.ComponentModel.IContainer components = null;
+
+        /// &lt;summary&gt;
+        /// Clean up any resources being used.
+        /// &lt;/summary&gt;
+        /// &lt;param name=&quot;disposing&quot;&gt;true if managed resources should be disposed; otherwise, false.&lt;/param&gt;
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing &amp;&amp; (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// &lt;summary&gt;
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// &lt;/summary&gt;
+        private void InitializeComponent()
+        {
+            this.dgvBancoSangre = new System.Windows.Forms.DataGridView();
+            this.lblTitulo = new System.Windows.Forms.Label();
+            this.dgvPacientes = new System.Windows.Forms.DataGridView();
+            this.btnBuscar = new System.Windows.Forms.Button();
+            this.txtBuscar = new System.Windows.Forms.TextBox();
+            this.lblNombre = new System.Windows.Forms.Label();
+            this.lblUsuario = new System.Windows.Forms.Label();
+            this.lblVolver = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvBancoSangre)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvPacientes)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // dgvBancoSangre
+            // 
+            this.dgvBancoSangre.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvBancoSangre.Location = new System.Drawing.Point(517, 141);
+            this.dgvBancoSangre.Name = &quot;dgvBancoSangre&quot;;
+            this.dgvBancoSangre.RowHeadersWidth = 51;
+            this.dgvBancoSangre.Size = new System.Drawing.Size(188, 222);
+            this.dgvBancoSangre.TabIndex = 13;
+            this.dgvBancoSangre.CellFormatting += new System.Windows.Forms.DataGridViewCellFormattingEventHandler(this.dgvBancoSangre_CellFormatting);
+            // 
+            // lblTitulo
+            // 
+            this.lblTitulo.AutoSize = true;
+            this.lblTitulo.Font = new System.Drawing.Font(&quot;MS UI Gothic&quot;, 20.25F, System.Drawing.FontStyle.Bold);
+            this.lblTitulo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
+            this.lblTitulo.Location = new System.Drawing.Point(269, 31);
+            this.lblTitulo.Name = &quot;lblTitulo&quot;;
+            this.lblTitulo.Size = new System.Drawing.Size(264, 27);
+            this.lblTitulo.TabIndex = 14;
+            this.lblTitulo.Text = &quot;BANCO DE SANGRE&quot;;
+            this.lblTitulo.TextAlign = System.Drawing.ContentAlignment.TopCenter;
+            // 
+            // dgvPacientes
+            // 
+            this.dgvPacientes.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvPacientes.Location = new System.Drawing.Point(56, 141);
+            this.dgvPacientes.Name = &quot;dgvPacientes&quot;;
+            this.dgvPacientes.RowHeadersWidth = 51;
+            this.dgvPacientes.Size = new System.Drawing.Size(443, 222);
+            this.dgvPacientes.TabIndex = 20;
+            // 
+            // btnBuscar
+            // 
+            this.btnBuscar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
+            this.btnBuscar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnBuscar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnBuscar.Font = new System.Drawing.Font(&quot;Nirmala UI&quot;, 9.75F, System.Drawing.FontStyle.Bold);
+            this.btnBuscar.ForeColor = System.Drawing.Color.White;
+            this.btnBuscar.Location = new System.Drawing.Point(517, 80);
+            this.btnBuscar.Margin = new System.Windows.Forms.Padding(2);
+            this.btnBuscar.Name = &quot;btnBuscar&quot;;
+            this.btnBuscar.Size = new System.Drawing.Size(80, 30);
+            this.btnBuscar.TabIndex = 22;
+            this.btnBuscar.Text = &quot;Buscar&quot;;
+            this.btnBuscar.UseVisualStyleBackColor = false;
+            this.btnBuscar.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // txtBuscar
+            // 
+            this.txtBuscar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(231)))), ((int)(((byte)(233)))));
+            this.txtBuscar.Font = new System.Drawing.Font(&quot;MS UI Gothic&quot;, 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtBuscar.Location = new System.Drawing.Point(241, 85);
+            this.txtBuscar.Name = &quot;txtBuscar&quot;;
+            this.txtBuscar.Size = new System.Drawing.Size(251, 21);
+            this.txtBuscar.TabIndex = 23;
+            // 
+            // lblNombre
+            // 
+            this.lblNombre.AutoSize = true;
+            this.lblNombre.Font = new System.Drawing.Font(&quot;Nirmala UI&quot;, 9.75F, System.Drawing.FontStyle.Bold);
+            this.lblNombre.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(164)))), ((int)(((byte)(165)))), ((int)(((byte)(169)))));
+            this.lblNombre.Location = new System.Drawing.Point(124, 86);
+            this.lblNombre.Name = &quot;lblNombre&quot;;
+            this.lblNombre.Size = new System.Drawing.Size(114, 17);
+            this.lblNombre.TabIndex = 24;
+            this.lblNombre.Text = &quot;Ingresar nombre:&quot;;
+            // 
+            // lblUsuario
+            // 
+            this.lblUsuario.AutoSize = true;
+            this.lblUsuario.Font = new System.Drawing.Font(&quot;Nirmala UI&quot;, 9.75F, System.Drawing.FontStyle.Bold);
+            this.lblUsuario.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(164)))), ((int)(((byte)(165)))), ((int)(((byte)(169)))));
+            this.lblUsuario.Location = new System.Drawing.Point(629, 40);
+            this.lblUsuario.Name = &quot;lblUsuario&quot;;
+            this.lblUsuario.Size = new System.Drawing.Size(58, 17);
+            this.lblUsuario.TabIndex = 40;
+            this.lblUsuario.Text = &quot;Nombre&quot;;
+            // 
+            // lblVolver
+            // 
+            this.lblVolver.AutoSize = true;
+            this.lblVolver.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.lblVolver.Font = new System.Drawing.Font(&quot;Nirmala UI&quot;, 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblVolver.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
+            this.lblVolver.Location = new System.Drawing.Point(53, 40);
+            this.lblVolver.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblVolver.Name = &quot;lblVolver&quot;;
+            this.lblVolver.Size = new System.Drawing.Size(47, 17);
+            this.lblVolver.TabIndex = 43;
+            this.lblVolver.Text = &quot;Volver&quot;;
+            this.lblVolver.Click += new System.EventHandler(this.label3_Click);
+            // 
+            // BANCO_DE_SANGRE
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(758, 410);
+            this.Controls.Add(this.lblVolver);
+            this.Controls.Add(this.lblUsuario);
+            this.Controls.Add(this.lblNombre);
+            this.Controls.Add(this.txtBuscar);
+            this.Controls.Add(this.btnBuscar);
+            this.Controls.Add(this.dgvPacientes);
+            this.Controls.Add(this.lblTitulo);
+            this.Controls.Add(this.dgvBancoSangre);
+            this.Name = &quot;BANCO_DE_SANGRE&quot;;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = &quot;BANCO_DE_SANGRE&quot;;
+            this.Load += new System.EventHandler(this.BANCO_DE_SANGRE_Load);
+            this.Resize += new System.EventHandler(this.BANCO_DE_SANGRE_Resize);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvBancoSangre)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvPacientes)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+        private System.Windows.Forms.Label lblTitulo;
+        public System.Windows.Forms.DataGridView dgvPacientes;
+        public System.Windows.Forms.DataGridView dgvBancoSangre;
+        public System.Windows.Forms.TextBox txtBuscar;
+        public System.Windows.Forms.Label lblNombre;
+        public System.Windows.Forms.Label lblUsuario;
+        public System.Windows.Forms.Button btnBuscar;
+        public System.Windows.Forms.Label lblVolver;
+    }
+}
+    </pre>
+    <script type="text/javascript">
+      highlightRanges([[8,9,8,68,1],[15,9,15,10,1],[16,13,16,51,1],[17,13,17,14,0],[18,17,18,38,0],[19,13,19,14,0],[20,13,20,37,1],[21,9,21,10,1],[30,9,30,10,1],[31,13,31,75,1],[32,13,32,63,1],[33,13,33,73,1],[34,13,34,64,1],[35,13,35,65,1],[36,13,36,63,1],[37,13,37,64,1],[38,13,38,63,1],[39,13,39,91,1],[40,13,40,89,1],[41,13,41,34,1],[45,13,45,133,1],[46,13,46,79,1],[47,13,47,57,1],[48,13,48,54,1],[49,13,49,74,1],[50,13,50,47,1],[51,13,51,151,1],[55,13,55,44,1],[56,13,56,114,1],[57,13,57,141,1],[58,13,58,73,1],[59,13,59,47,1],[60,13,60,68,1],[61,13,61,42,1],[62,13,62,53,1],[63,13,63,82,1],[67,13,67,131,1],[68,13,68,76,1],[69,13,69,53,1],[70,13,70,52,1],[71,13,71,72,1],[72,13,72,45,1],[76,13,76,141,1],[77,13,77,71,1],[78,13,78,76,1],[79,13,79,111,1],[80,13,80,67,1],[81,13,81,73,1],[82,13,82,73,1],[83,13,83,47,1],[84,13,84,67,1],[85,13,85,42,1],[86,13,86,44,1],[87,13,87,60,1],[88,13,88,81,1],[92,13,92,142,1],[93,13,93,164,1],[94,13,94,73,1],[95,13,95,47,1],[96,13,96,68,1],[97,13,97,42,1],[101,13,101,44,1],[102,13,102,111,1],[103,13,103,142,1],[104,13,104,73,1],[105,13,105,47,1],[106,13,106,68,1],[107,13,107,42,1],[108,13,108,54,1],[112,13,112,45,1],[113,13,113,112,1],[114,13,114,143,1],[115,13,115,74,1],[116,13,116,49,1],[117,13,117,68,1],[118,13,118,43,1],[119,13,119,45,1],[123,13,123,44,1],[124,13,124,71,1],[125,13,125,228,1],[126,13,126,141,1],[127,13,127,72,1],[128,13,128,82,1],[129,13,129,47,1],[130,13,130,67,1],[131,13,131,42,1],[132,13,132,44,1],[133,13,133,80,1],[137,13,137,74,1],[138,13,138,74,1],[139,13,139,57,1],[140,13,140,65,1],[141,13,141,47,1],[142,13,142,48,1],[143,13,143,47,1],[144,13,144,47,1],[145,13,145,47,1],[146,13,146,50,1],[147,13,147,47,1],[148,13,148,52,1],[149,13,149,43,1],[150,13,150,86,1],[151,13,151,43,1],[152,13,152,77,1],[153,13,153,81,1],[154,13,154,89,1],[155,13,155,87,1],[156,13,156,38,1],[157,13,157,34,1],[159,9,159,10,1]]);
+    </script>
+  </body>
+</html>

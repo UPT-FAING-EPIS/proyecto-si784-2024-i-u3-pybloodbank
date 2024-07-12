@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>D:\UPT Sistemas 7°\calidad y pruebas software\Pruebas finales\FINAL\ProyectoU2 Version 9\ProyectoFinal\TestOpciones2.cs</title>
+    <script type="text/javascript" src="../js/dotcover.sourceview.js"></script>
+    <link rel="stylesheet" type="text/css" href="../css/dotcover.report.css" />
+  </head>
+  <body>
+    <pre id="content" class="source-code">
+using NUnit.Framework;
+using Proyecto_Final_Blood_Bank;
+using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Windows.Forms;
+
+namespace Proyecto_Final_Blood_Bank.Tests
+{
+    [TestFixture]
+    public class TestOpciones2
+    {
+        private OPCIONES_2 opcionesForm;
+        private Label lblNombre;
+        private Button btnPacientes;
+        private Button btnBanco;
+        private Button btnDonantes;
+        private LinkLabel LogOut;
+
+        [SetUp]
+        public void Setup()
+        {
+            // Inicializar el formulario y los controles necesarios para la prueba
+            opcionesForm = new OPCIONES_2();
+            lblNombre = new Label();
+            btnPacientes = new Button();
+            btnBanco = new Button();
+            btnDonantes = new Button();
+            LogOut = new LinkLabel();
+
+            // Asignar los controles simulados al formulario
+            opcionesForm.Controls.Add(lblNombre);
+            opcionesForm.Controls.Add(btnPacientes);
+            opcionesForm.Controls.Add(btnBanco);
+            opcionesForm.Controls.Add(btnDonantes);
+            opcionesForm.Controls.Add(LogOut);
+        }
+
+        [Test]
+        public void btnBanco_Click_ShowsBancoDeSangreForm()
+        {
+            // Act
+            opcionesForm.btnBanco_Click(null, null);
+
+            // Assert
+            // Asegurarse de que el formulario actual est&#233; oculto y el nuevo formulario est&#233; mostrado
+            Assert.That(opcionesForm.Visible, Is.False, &quot;El formulario OPCIONES_2 deber&#237;a estar oculto.&quot;);
+        }
+
+        [Test]
+        public void btnPacientes_Click_ShowsRegistroPacienteForm()
+        {
+            // Act
+            opcionesForm.btnPacientes_Click(null, null);
+
+            // Assert
+            // Asegurarse de que el formulario actual est&#233; oculto y el nuevo formulario est&#233; mostrado
+            Assert.That(opcionesForm.Visible, Is.False, &quot;El formulario OPCIONES_2 deber&#237;a estar oculto.&quot;);
+        }
+
+        [Test]
+        public void LogOut_Click_ShowsLoginForm()
+        {
+            // Act
+            opcionesForm.LogOut_Click(null, null);
+
+            // Assert
+            // Asegurarse de que el formulario actual est&#233; oculto y el nuevo formulario est&#233; mostrado
+            Assert.That(opcionesForm.Visible, Is.False, &quot;El formulario OPCIONES_2 deber&#237;a estar oculto.&quot;);
+        }
+
+        [Test]
+        public void btnDonantes_Click_ShowsRegistroDonantesForm()
+        {
+            // Act
+            opcionesForm.btnDonantes_Click(null, null);
+
+            // Assert
+            // Asegurarse de que el formulario actual est&#233; oculto y el nuevo formulario est&#233; mostrado
+            Assert.That(opcionesForm.Visible, Is.False, &quot;El formulario OPCIONES_2 deber&#237;a estar oculto.&quot;);
+        }
+
+        [Test]
+        public void OPCIONES_2_Resize_ResizesControls()
+        {
+            // Arrange
+            var originalSize = opcionesForm.Size;
+            var newSize = new Size(originalSize.Width + 100, originalSize.Height + 100);
+            opcionesForm.Size = newSize;
+
+            // Act
+            opcionesForm.OPCIONES_2_Resize(null, null);
+
+            // Assert
+            // Verificar que los controles hayan cambiado de tama&#241;o correctamente
+            // (Se requiere una l&#243;gica adicional para verificar las dimensiones espec&#237;ficas)
+            // Esto es solo un ejemplo para asegurarse de que la funci&#243;n no lanza ninguna excepci&#243;n.
+            Assert.Pass(&quot;La funci&#243;n OPCIONES_2_Resize se ejecut&#243; sin lanzar excepciones.&quot;);
+        }
+
+
+        [Test]
+        public void Form_FormClosed_ExitsApplication()
+        {
+            // Arrange
+            var mockForm = new Form(); // Formulario simulado para verificar la aplicaci&#243;n
+
+            // Act
+            Application.Run(mockForm); // Inicia el formulario simulado para agregarlo a la colecci&#243;n de formularios abiertos
+            opcionesForm.Form_FormClosed(null, new FormClosedEventArgs(CloseReason.UserClosing)); // Simula el cierre de opcionesForm
+
+            // Assert
+            Assert.That(Application.OpenForms, Has.No.Member(mockForm), &quot;El formulario simulado a&#250;n est&#225; en la colecci&#243;n de formularios abiertos.&quot;);
+        }
+
+
+
+
+        [TearDown]
+        public void TearDown()
+        {
+            // Liberar los recursos aqu&#237;
+            opcionesForm.Dispose();
+            lblNombre.Dispose();
+            btnPacientes.Dispose();
+            btnBanco.Dispose();
+            btnDonantes.Dispose();
+            LogOut.Dispose();
+        }
+    }
+
+}
+
+
+    </pre>
+    <script type="text/javascript">
+      highlightRanges([[22,9,22,10,1],[24,13,24,45,1],[25,13,25,37,1],[26,13,26,41,1],[27,13,27,37,1],[28,13,28,40,1],[29,13,29,38,1],[32,13,32,50,1],[33,13,33,53,1],[34,13,34,49,1],[35,13,35,52,1],[36,13,36,47,1],[37,9,37,10,1],[41,9,41,10,1],[43,13,43,53,1],[47,13,47,107,1],[48,9,48,10,1],[52,9,52,10,1],[54,13,54,57,1],[58,13,58,107,1],[59,9,59,10,1],[63,9,63,10,1],[65,13,65,51,1],[69,13,69,107,1],[70,9,70,10,1],[74,9,74,10,1],[76,13,76,56,1],[80,13,80,107,1],[81,9,81,10,1],[85,9,85,10,1],[87,13,87,50,1],[88,13,88,89,1],[89,13,89,41,1],[92,13,92,56,1],[98,13,98,92,1],[99,9,99,10,0],[104,9,104,10,1],[106,13,106,39,1],[109,13,109,39,1],[110,13,110,98,1],[113,13,113,149,1],[114,9,114,10,1],[121,9,121,10,1],[123,13,123,36,1],[124,13,124,33,1],[125,13,125,36,1],[126,13,126,32,1],[127,13,127,35,1],[128,13,128,30,1],[129,9,129,10,1]]);
+    </script>
+  </body>
+</html>
